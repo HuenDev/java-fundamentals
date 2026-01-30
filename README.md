@@ -16,5 +16,5 @@ Cada carpeta representa un módulo que contiene ejercicios prácticos:
 
 
 ## Herramientas utilizadas
-* **Lenguaje:** Java 25
+* **Lenguaje:** Java 17
 * **IDE:** IntelliJ IDEA
